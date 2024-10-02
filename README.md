@@ -35,16 +35,16 @@ The dataset includes images collected from diverse locations to ensure a wide ra
 
 Below are some example images from the MWCD dataset for autonomous driving:
 
-![Day Example](MWCD/Day13-109.jpg)  
+![Day Example](Day13-109.jpg)  
 *Daytime Image Example*
 
-![Night Example](MWCD/N0-017.jpg)  
+![Night Example](N0-017.jpg)  
 *Nighttime Image Example*
 
-![Rain Example](MWCD/R12-014.jpg)  
+![Rain Example](R12-014.jpg)  
 *Rainy Weather Image Example*
 
-![Snow Example](MWCD/Sn3-769.jpg)  
+![Snow Example](Sn3-769.jpg)  
 *Snowy Weather Image Example*
 
 ## Dataset Structure
